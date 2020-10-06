@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "declaration": true,
+    "module": "commonjs",
+    "target": "es2019",
+    "esModuleInterop": true
+  }
+}
